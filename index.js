@@ -1,6 +1,5 @@
 "use strict";
 
-// http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html
 function inside (p, poly) {
     var i, j, c = false, nvert = poly.length;
     for (i = 0, j = nvert - 1; i < nvert; j = i++) {
