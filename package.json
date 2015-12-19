@@ -1,6 +1,6 @@
 {
   "name": "point-inside-polygon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if point is inside polygon",
   "repository": {
     "type": "git",
