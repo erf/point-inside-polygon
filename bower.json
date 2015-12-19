@@ -1,0 +1,29 @@
+{
+  "name": "poly-overlap",
+  "description": "Check if point is inside polygon",
+  "main": "index.js",
+  "authors": [
+    "Erlend Fagerheim"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "point",
+    "polygon",
+    "inside",
+    "intersect",
+    "geometry",
+    "geo"
+  ],
+  "homepage": "https://github.com/erf/point-inside-polygon",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

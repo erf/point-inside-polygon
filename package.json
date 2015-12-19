@@ -1,0 +1,27 @@
+{
+  "name": "point-inside-polygon",
+  "version": "1.0.0",
+  "description": "Check if point is inside polygon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erf/point-inside-polygon.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "point",
+    "polygon",
+    "inside",
+    "overlap",
+    "intersect",
+    "geometry",
+    "geo"
+  ],
+  "author": "Erlend Fagerheim",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "2.3.4"
+  }
+}
