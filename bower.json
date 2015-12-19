@@ -1,5 +1,5 @@
 {
-  "name": "poly-overlap",
+  "name": "point-inside-polygon",
   "description": "Check if point is inside polygon",
   "main": "index.js",
   "authors": [
