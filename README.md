@@ -3,7 +3,8 @@
 Check if point is inside polygon
 
 # Install
-`npm install point-inside-polygon`
+* [npm](http://npmjs.com/): `npm install point-inside-polygon`
+* [Bower](http://bower.io/): `bower install point-inside-polygon`
 
 # Usage
 ```
